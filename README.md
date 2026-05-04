@@ -16,11 +16,10 @@
 
 ```yaml
 nombre:       Samuel Montaña
-alias:        AdrianMontLin
-universidad:  Pontificia Universidad Javeriana 🎓
+universidad:  Pontificia Universidad Javeriana 
 semestre:     6to semestre — Ingeniería de Sistemas
 enfoque:      Cloud Computing & DevOps
-ubicación:    Bogotá, Colombia 🇨🇴
+ubicación:    Bogotá, Colombia 
 buscando:     Prácticas / Primer empleo en Cloud & DevOps
 ```
 
