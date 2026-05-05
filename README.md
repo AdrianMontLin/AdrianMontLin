@@ -4,8 +4,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Montaña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-PERFIL-AQUÍ)
-[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@javeriana.edu.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Montaña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sa-mont-lin-)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian.montanalinares@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianMontLin)
 
 </div>
